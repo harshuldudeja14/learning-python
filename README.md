@@ -8,3 +8,4 @@ lab 3 Strings and list- hands-on practice
 lab 5 Strings and list- hands-on practice
 lab 6 Operation on dictionary and sets hands-on practice
 lab 7 sets
+Lab 8 UML, Object Oriented Programming
