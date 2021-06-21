@@ -10,3 +10,4 @@ lab 6 Operation on dictionary and sets hands-on practice
 lab 7 functions
 Lab 8 UML, Object Oriented Programming
 lab 9 Class inheritance & Method overriding hands on practice
+lab 10 series and dataframe
